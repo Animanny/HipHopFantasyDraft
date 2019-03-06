@@ -1,0 +1,9 @@
+{
+  "name": "hiphopfantasydraft",
+  "version": "1.0.0",
+  "description": "A simple app that allows you to be Hip Hop Label Managers and Recruit the best talent possible.",
+  "main": "app.js",
+  "repository": "https://github.com/Animanny/HipHopFantasyDraft.git",
+  "author": "Ani Srikanth",
+  "license": "MIT"
+}
