@@ -6,9 +6,12 @@ app.get('/',(req,res)=>{
     res.sendFile(__dirname+"/index.html");
 });
 
+app.get('/',(req,res)=>{
+    res.sendFile(__dirname+"/index.html");
+});
 
 
 
-http.listen(process.env.PORT || 3000, ()=>{
+http.listen(process.env.PORT, ()=>{
     console.log("listening on *:"+process.env.PORT);
 });
