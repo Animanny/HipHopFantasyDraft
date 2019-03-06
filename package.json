@@ -6,6 +6,9 @@
   "scripts":{
     "start":"node app.js"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "repository": "https://github.com/Animanny/HipHopFantasyDraft.git",
   "author": "Ani Srikanth",
   "license": "MIT",
